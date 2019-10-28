@@ -12,7 +12,7 @@ print('Y')
 print('Z')
 output yang di dapat:
 
-(pct1)
+(https://github.com/putrinabila2301/latihan-2/blob/master/pct1.png)
 
 #Penggunaan Separator
 "sep" pada python di gunakan sebagai pembatas antara output yang di hasilkan.
