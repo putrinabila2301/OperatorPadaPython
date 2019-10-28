@@ -1,5 +1,6 @@
-##Lab 1
-#Penggunaan end
+## Lab 1
+
+# Penggunaan end
 Fungsi print() berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 contoh kode:
 print('A', end="")  
@@ -25,7 +26,7 @@ output yang didapat:
 
 (pct2)
 
-#Penggunaan String Format
+# Penggunaan String Format
 string format di gunakan ketika kita ingin mengatur print output menjadi apa yang kita mau.
 contoh kode:
 # String yang belum di format
@@ -45,7 +46,7 @@ output:
 (pct3)
 
 
-##Lab 2
+## Lab 2
 Lab 2 membahas tentang bagaimana cara memasukan input, menghitung dan mengubah tipe data serta membuat format print yang akan di cetak ke output.
 contoh kode:
 a = input("masukan nilai a:")
