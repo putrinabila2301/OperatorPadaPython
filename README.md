@@ -12,7 +12,7 @@ print('Y')
 print('Z')
 output yang di dapat:
 
-![gambar web git-scm](https://github.com/putrinabila2301/latihan-2/blob/master/img/img_1.png)
+![gambar web git-scm](https://github.com/putrinabila2301/latihan-2/blob/master/pct1.png)
 
 #Penggunaan Separator
 "sep" pada python di gunakan sebagai pembatas antara output yang di hasilkan.
@@ -24,7 +24,7 @@ print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='- - - - -')
 output yang didapat:
 
-![gambar web git-scm](https://github.com/putrinabila2301/latihan-2/blob/master/img/img_2.png)
+![gambar web git-scm](https://github.com/putrinabila2301/latihan-2/blob/master/pct2.png)
 
 # Penggunaan String Format
 string format di gunakan ketika kita ingin mengatur print output menjadi apa yang kita mau.
@@ -43,7 +43,7 @@ print(9, 10 ** 9)
 print(10, 10 ** 10)
 output:
 
-![gambar web git-scm](https://github.com/putrinabila2301/latihan-2/blob/master/img/img_3.png)
+![gambar web git-scm](https://github.com/putrinabila2301/latihan-2/blob/master/pct%203.png)
 
 
 ## Lab 2
@@ -62,5 +62,5 @@ print('hasil penjumlahan {1} & {0} = %d'.format(a, b)%(a + b))
 print('hasil pembagian {} & {} = %d'.format(a, b) % (a / b))
 output yang didapat:
 
-![gambar web git-scm](https://github.com/putrinabila2301/latihan-2/blob/master/img/img_4.png)
+![gambar web git-scm](https://github.com/putrinabila2301/latihan-2/blob/master/pct4.png)
 
